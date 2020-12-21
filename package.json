@@ -1,19 +1,9 @@
 {
-  "name": "react-static-template",
+  "name": "Hamza-Mokaddem-CV",
   "version": "1.0.0",
-  "author": "Michael Sargent",
-  "description": "static react template",
+  "author": "Hamza Mokaddem",
+  "description": "My-CV",
   "license": "MIT",
-  "keywords": [
-    "react",
-    "static",
-    "template"
-  ],
-  "repository": {
-    "type": "git",
-    "homepage": "https://github.com/mksarge/react-static-template",
-    "bugs": "https://github.com/mksarge/react-static-template/issues"
-  },
   "dependencies": {
     "react": "^15.3.2",
     "react-dom": "^15.3.2"

@@ -2,6 +2,11 @@
 title: Hamza Mokaddem CV
 ---
 <br>
+<p style="text-align: center;">
+  <img style="border-radius: 45%;" width="200px" heigth="200px" src="./assets/images/cv.jpg"/>
+</p>
+
+<hr>
 
 ### Description
 Passionné de résolution de problèmes et travailleur acharné. Apprenant extrêmement rapide, bien organisé et un
@@ -36,6 +41,10 @@ hamzamkdm@gmail.com
 10 rue 4120 city ezzouhour 1
 
 Tunis, Tunisie 2050
+
+https://www.linkedin.com/in/hamza-mokaddem-5ba281149/
+
+https://github.com/HamzaMokaddem
 
 <hr>
 
