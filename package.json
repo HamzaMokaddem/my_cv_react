@@ -78,6 +78,7 @@
     "lint": "npm run eslint && npm run stylelint",
     "clean": "node run clean",
     "build": "node run build",
+    "dev" : "nodemon --legacy-watch --exec 'node run' -e md",
     "start": "node run"
   }
 }
